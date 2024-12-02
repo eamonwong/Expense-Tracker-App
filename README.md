@@ -25,6 +25,11 @@ Have you ever struggled to figure out where your money goes each month? With thi
 - Add custom categories tailored to your spending habits.
 - Stay motivated to stick to your budget with real-time tracking and updates.
 
+# Tips 💡
+- Set a realistic monthly budget.
+- Regularly update your expenses to avoid end-of-month surprises.
+- Use the Save Data feature to keep a backup of your financial records.
+
 # Why I Built This
 I created this project to help individuals like myself manage their finances better while showcasing my programming skills. It combines practical functionality with an intuitive interface and demonstrates my ability to work with data management, GUIs, and Python-based applications.
 
